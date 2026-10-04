@@ -1,4 +1,4 @@
-<img width="3094" height="438" alt="image" src="Skin_Cancer_SQL_Excel_Dashboard.png" />
+<img width="3094" height="438" alt="image" src="Covid_19_TableauDB.png" />
 COVID-19 Global Executive Tableau Dashboard Overview
 Steps Taken
 ·      Imported and cleaned the global COVID-19 dataset in Tableau. 
